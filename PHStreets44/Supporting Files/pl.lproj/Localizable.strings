@@ -1,0 +1,47 @@
+//
+//  Localizable.strings
+//  PHStreets44 project - Streets '44 iOS app
+//
+//  Created by Pawel Hryczuk on 15.02.2015.
+//  Copyright (c) 2015 Pawel Hryczuk. All rights reserved.
+//
+//  This program is free software: you can redistribute it and/or modify
+//  it under the terms of the GNU General Public License as published by
+//  the Free Software Foundation; either version 3 of the License, or
+//  (at your option) any later version.
+//
+//  This program is distributed in the hope that it will be useful,
+//  but WITHOUT ANY WARRANTY; without even the implied warranty of
+//  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+//  GNU General Public License for more details.
+//
+//  You should have received a copy of the GNU General Public License
+//  along with this program. If not, see <http://www.gnu.org/licenses/>.
+//
+
+"PHStoryPhotoCreditPrefix" = "fot.";
+"PHSettingsAbout" =
+    "<style>
+            .content { font-family: 'GNUTypewriter'; font-size: 13px }
+            center { font-size: 17px }
+            .small { font-size: 10px }
+            .space { font-size: 5px }
+            .bigspace { font-size: 10px }
+            .naclogospace { font-size: 72px }
+        </style>
+        <div class=\"content\">
+            <center>Autorzy</center>
+            <div class=\"bigspace\"></div>
+            Inicjatywa: Paweł Hryczuk
+            <div class=\"space\"></div>
+            Koordynacja: Artur Łysik
+            <div class=\"space\"></div>
+            Programowanie: Paweł Hryczuk
+            <div class=\"space\"></div>
+            Opracowanie historyczne: Artur Łysik, Łukasz Wojtach
+            <div class=\"space\"></div>
+            Grafika: Zofia Wojtach
+            <div class=\"space\"></div>
+            Kontakt: <a href=\"mailto:aplikacjaulice44@gmail.com\">aplikacjaulice44@gmail.com</a>
+        <div class=\"bigspace\"></div>
+    </div>";
