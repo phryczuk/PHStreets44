@@ -21,7 +21,7 @@
 
 # Streets '44
 
-![https://itunes.apple.com/pl/app/streets-44/id974553593](AppStoreBadge.jpg "App Store")
+[![App Store](AppStoreBadge.jpg)](https://itunes.apple.com/pl/app/streets-44/id974553593)
 
 Streets '44 is an app telling the story of [Warsaw Uprising](https://en.wikipedia.org/wiki/Warsaw_Uprising). It presents archival photos located on the original city map. They are followed by descriptions of key events and some less-known facts. The front line is updated daily. Narrative includes stories of civil inhabitants, thriving to survive the battle.
 
